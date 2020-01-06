@@ -2,6 +2,6 @@ homepage: "https://www.42digital.de"
 documentation: "https://github.com/42DIGITAL/gtm-tag-monitor-ga/blob/master/README.md"
 versions:
   # Latest version
-  - sha: 2f27f37c19ab9e69f864a443661ad348cbf6f9e0
+  - sha: fb569b0fd57d3f3f72f8730e6535e7121873220b
     changeNotes: Initial release.
   # Older versions
